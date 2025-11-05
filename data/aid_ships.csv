@@ -1,0 +1,9 @@
+name,registrationNumber,tonnage,crewSize,port,aidType,aidCapacity,hasHelipad
+Africa Mercy,LR12345,16272.0,400,Port of Monrovia,Medical,78,true
+USNS Comfort,USNTAH20,69360.0,1200,Norfolk-Virginia,Medical,1000,true
+USNS Mercy,USNTAH19,69360.0,1200,San Diego-California,Medical,1000,true
+MV Esperanza,GPGREEN01,2072.0,35,Amsterdam,Humanitarian Supplies,500,false
+Ocean Viking,IMO8506854,2094.0,22,Marseille,Search and Rescue,300,false
+Madelene,IMO9320112,6000.0,18,Valletta-Malta,Refugee Rescue,250,false
+Aquarius,IMO7600574,1813.0,30,Gibraltar,Search and Rescue,500,false
+Geo Barents,IMO9226902,3700.0,40,Valletta-Malta,Search and Rescue,700,true
